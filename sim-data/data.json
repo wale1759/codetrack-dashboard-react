@@ -1,0 +1,1331 @@
+{
+  "simulation_context": {
+    "dashboard_as_of": "2026-06-26T18:00:00Z"
+  },
+  "mock_auth_users": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "display_name": "Alex Rivera",
+      "email": "alex@codetrack.test",
+      "password": "password123",
+      "plan": "free",
+      "time_zone": "UTC"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "display_name": "Alex Rivera",
+      "plan": "free",
+      "time_zone": "UTC"
+    }
+  ],
+  "learning_logs": [
+    {
+      "id": "10000000-0000-0000-0000-000000000001",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-06-29T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000002",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-07-03T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000003",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-07-06T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000004",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-07-09T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000005",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-07-12T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000006",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-07-15T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000007",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-07-18T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000008",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-07-21T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000009",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-07-24T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000010",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-07-27T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000011",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-07-30T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000012",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-08-01T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000013",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-08-04T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000014",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-08-07T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000015",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-08-10T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000016",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-08-13T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000017",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-08-16T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000018",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-08-19T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000019",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-08-22T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000020",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-08-25T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000021",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-08-28T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000022",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-08-31T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000023",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-09-02T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000024",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-09-05T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000025",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-09-08T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000026",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-09-11T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000027",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-09-14T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000028",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-09-17T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000029",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-09-20T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000030",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-09-23T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000031",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-09-26T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000032",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-09-29T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000033",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-10-03T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000034",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-10-06T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000035",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-10-09T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000036",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-10-12T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000037",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-10-15T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000038",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-10-18T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000039",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-10-21T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000040",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-10-24T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000041",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-10-27T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000042",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-10-30T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000043",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-11-01T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000044",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-11-04T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000045",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-11-07T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000046",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-11-10T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000047",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-11-13T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000048",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-11-16T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000049",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-11-19T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000050",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-11-22T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000051",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-11-25T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000052",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-11-28T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000053",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-12-02T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000054",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-12-05T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000055",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-12-08T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000056",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-12-11T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000057",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-12-14T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000058",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-12-17T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000059",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2025-12-20T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000060",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2025-12-23T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000061",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2025-12-26T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000062",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2025-12-29T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000063",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-01-03T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000064",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-01-06T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000065",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-01-09T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000066",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-01-12T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000067",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-01-15T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000068",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-01-18T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000069",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-01-21T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000070",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-01-24T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000071",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-01-27T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000072",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-01-30T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000073",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-02-01T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000074",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-02-04T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000075",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-02-07T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000076",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-02-10T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000077",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-02-13T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000078",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000079",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-02-19T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000080",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-02-22T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000081",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-02-25T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000082",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-02-28T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000083",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-03-02T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000084",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-03-05T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000085",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-03-08T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000086",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-03-11T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000087",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-03-14T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000088",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-03-17T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000089",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-03-20T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000090",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-03-23T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000091",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-03-26T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000092",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-03-29T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000093",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-01T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000094",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-02T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000095",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-03T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000096",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-04T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000097",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-05T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000098",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-06T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000099",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-07T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000100",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-08T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000101",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-09T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000102",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-10T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000103",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-11T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000104",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-12T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000105",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-13T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000106",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-14T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000107",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000108",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-16T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000109",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-17T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000110",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-18T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000111",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-19T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000112",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-20T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000113",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-21T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000114",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-22T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000115",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-23T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000116",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-24T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000117",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-25T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000118",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-26T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000119",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-04-27T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000120",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-04-28T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000121",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-04-29T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000122",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-04-30T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000123",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-05-01T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000124",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-05-02T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000125",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-05-03T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000126",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-05-04T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000127",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-05-05T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000128",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-05-06T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000129",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-05-07T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000130",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-05-08T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000131",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-05-09T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000132",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-05-10T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000133",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-05-13T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000134",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-05-16T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000135",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-05-19T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000136",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-05-22T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000137",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000138",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-05-28T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000139",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-05-31T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000140",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-06-01T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000141",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-06-02T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000142",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 40,
+      "logged_at": "2026-06-03T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000143",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 55,
+      "logged_at": "2026-06-04T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000144",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 70,
+      "logged_at": "2026-06-05T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000145",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 25,
+      "logged_at": "2026-06-06T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000146",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 45,
+      "logged_at": "2026-06-14T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000147",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 60,
+      "logged_at": "2026-06-15T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000148",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 60,
+      "logged_at": "2026-06-16T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000149",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 60,
+      "logged_at": "2026-06-17T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000150",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 60,
+      "logged_at": "2026-06-18T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000151",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 60,
+      "logged_at": "2026-06-19T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000152",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 60,
+      "logged_at": "2026-06-20T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000153",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "sql",
+      "duration_minutes": 90,
+      "logged_at": "2026-06-21T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000154",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "react",
+      "duration_minutes": 130,
+      "logged_at": "2026-06-22T09:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000155",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "algorithms",
+      "duration_minutes": 145,
+      "logged_at": "2026-06-22T13:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000156",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Focused learning session",
+      "tag": "css-grid",
+      "duration_minutes": 145,
+      "logged_at": "2026-06-22T18:00:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000157",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Joins and subqueries practice set",
+      "tag": "sql",
+      "duration_minutes": 25,
+      "logged_at": "2026-06-23T22:10:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000158",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Rebuilt the pricing page layout",
+      "tag": "css-grid",
+      "duration_minutes": 40,
+      "logged_at": "2026-06-24T20:02:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000159",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Sliding-window problems on LeetCode",
+      "tag": "algorithms",
+      "duration_minutes": 30,
+      "logged_at": "2026-06-25T19:15:00Z"
+    },
+    {
+      "id": "10000000-0000-0000-0000-000000000160",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Refactored the dashboard into hooks",
+      "tag": "react",
+      "duration_minutes": 55,
+      "logged_at": "2026-06-25T21:40:00Z"
+    }
+  ],
+  "goals": [
+    {
+      "id": "20000000-0000-0000-0000-000000000001",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "Learn React",
+      "current_value": 12,
+      "target_value": 20,
+      "unit": "hours"
+    },
+    {
+      "id": "20000000-0000-0000-0000-000000000002",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "DS&A topics mastered",
+      "current_value": 7,
+      "target_value": 10,
+      "unit": "topics"
+    },
+    {
+      "id": "20000000-0000-0000-0000-000000000003",
+      "profile_id": "00000000-0000-0000-0000-000000000001",
+      "title": "30-day commit streak",
+      "current_value": 12,
+      "target_value": 30,
+      "unit": "days"
+    }
+  ]
+}
