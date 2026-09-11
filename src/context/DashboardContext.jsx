@@ -1,9 +1,23 @@
-import React from 'react'
+import { createContext, useMemo, useState } from "react";
+import PropTypes from "prop-types";
+import { getMockData } from "../services/mockDataService";
+import { createDashboardData } from "../utils/dashboardMetrics";
 
-const DashboardContext = () => {
+const DashboardContext = createContext(null);
+
+export function DashboardProvider({ children }) {
+  const [appData] = useState(() => getMockData());
+  const dashboard = useMemo(() => createDashboardData(appData), [appData]);
+
   return (
-    <div>DashboardContext</div>
-  )
+    <DashboardContext.Provider value={{ appData, dashboard }}>
+      {children}
+    </DashboardContext.Provider>
+  );
 }
 
-export default DashboardContext
+DashboardProvider.propTypes = {
+  children: PropTypes.node.isRequired,
+};
+
+export { DashboardContext };

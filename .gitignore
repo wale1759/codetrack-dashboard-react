@@ -7,7 +7,12 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-.agents
+# Local AI-agent skills and generated skill metadata
+.agent/skills/
+.agents/
+.claude/skills/
+skills-lock.json
+.claude
 
 node_modules
 dist

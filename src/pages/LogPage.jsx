@@ -1,7 +1,5 @@
 const LogPage = () => {
-  return (
-    <div>LogPage</div>
-  )
-}
+  return <div>LogPage</div>;
+};
 
-export default LogPage
+export default LogPage;
